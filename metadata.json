@@ -1,0 +1,8 @@
+{
+  "name": "Ultra Pro Exam Portal",
+  "description": "A premium, ultra-modern online examination system featuring glassmorphism design, real-time analytics, AI-powered assistance, and comprehensive administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
